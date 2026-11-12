@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="1200" height="1600" style="pointer-events:none">
+<polygon id="district-huadu" data-district-id="huadu" data-district-name="花都区" points="0,0 520,0 520,220 460,245 330,245 330,320 0,370" fill="none" stroke="none"/>
+<polygon id="district-conghua" data-district-id="conghua" data-district-name="从化区" points="520,0 1200,0 1200,240 900,270 820,400 620,370 600,250 520,220" fill="none" stroke="none"/>
+<polygon id="district-baiyun" data-district-id="baiyun" data-district-name="白云区" points="0,370 330,320 330,245 460,245 520,220 600,250 620,370 580,380 540,490 340,515 335,590 190,590 180,490 0,490" fill="none" stroke="none"/>
+<polygon id="district-zengcheng" data-district-id="zengcheng" data-district-name="增城区" points="1200,240 900,270 820,400 870,500 875,650 950,685 1200,685" fill="none" stroke="none"/>
+<polygon id="district-liwan" data-district-id="liwan" data-district-name="荔湾区" points="0,490 180,490 190,590 245,590 260,680 300,730 310,850 0,900" fill="none" stroke="none"/>
+<polygon id="district-yuexiu" data-district-id="yuexiu" data-district-name="越秀区" points="335,590 340,515 540,490 540,730 300,730 260,680 245,590" fill="none" stroke="none"/>
+<polygon id="district-tianhe" data-district-id="tianhe" data-district-name="天河区" points="540,490 580,380 620,370 820,400 870,500 875,650 850,730 540,730" fill="none" stroke="none"/>
+<polygon id="district-huangpu" data-district-id="huangpu" data-district-name="黄埔区" points="875,650 950,685 1200,685 1200,1040 820,1040 810,960 850,730" fill="none" stroke="none"/>
+<polygon id="district-haizhu" data-district-id="haizhu" data-district-name="海珠区" points="300,730 540,730 850,730 810,960 820,1040 700,1100 430,1090 0,1100 0,900 310,850" fill="none" stroke="none"/>
+<polygon id="district-panyu" data-district-id="panyu" data-district-name="番禺区" points="0,1100 430,1090 700,1100 820,1040 1200,1040 1200,1220 950,1260 750,1300 560,1360 400,1430 0,1460" fill="none" stroke="none"/>
+<polygon id="district-nansha" data-district-id="nansha" data-district-name="南沙区" points="0,1460 400,1430 560,1360 750,1300 950,1260 1200,1220 1200,1600 0,1600" fill="none" stroke="none"/>
+<g fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linejoin="round">
+<path d="M0 0 L0 370"/>
+<path d="M0 0 L520 0"/>
+<path d="M0 370 L0 490"/>
+<path d="M0 370 L330 320"/>
+<path d="M0 490 L0 900"/>
+<path d="M0 490 L180 490"/>
+<path d="M0 900 L0 1100"/>
+<path d="M0 900 L310 850"/>
+<path d="M0 1100 L0 1460"/>
+<path d="M0 1100 L430 1090"/>
+<path d="M0 1460 L0 1600"/>
+<path d="M0 1460 L400 1430"/>
+<path d="M0 1600 L1200 1600"/>
+<path d="M180 490 L190 590"/>
+<path d="M190 590 L245 590"/>
+<path d="M190 590 L335 590"/>
+<path d="M245 590 L260 680"/>
+<path d="M245 590 L335 590"/>
+<path d="M260 680 L300 730"/>
+<path d="M300 730 L310 850"/>
+<path d="M300 730 L540 730"/>
+<path d="M330 245 L330 320"/>
+<path d="M330 245 L460 245"/>
+<path d="M335 590 L340 515"/>
+<path d="M340 515 L540 490"/>
+<path d="M400 1430 L560 1360"/>
+<path d="M430 1090 L700 1100"/>
+<path d="M460 245 L520 220"/>
+<path d="M520 0 L520 220"/>
+<path d="M520 0 L1200 0"/>
+<path d="M520 220 L600 250"/>
+<path d="M540 490 L540 730"/>
+<path d="M540 490 L580 380"/>
+<path d="M540 730 L850 730"/>
+<path d="M560 1360 L750 1300"/>
+<path d="M580 380 L620 370"/>
+<path d="M600 250 L620 370"/>
+<path d="M620 370 L820 400"/>
+<path d="M700 1100 L820 1040"/>
+<path d="M750 1300 L950 1260"/>
+<path d="M810 960 L820 1040"/>
+<path d="M810 960 L850 730"/>
+<path d="M820 400 L870 500"/>
+<path d="M820 400 L900 270"/>
+<path d="M820 1040 L1200 1040"/>
+<path d="M850 730 L875 650"/>
+<path d="M870 500 L875 650"/>
+<path d="M875 650 L950 685"/>
+<path d="M900 270 L1200 240"/>
+<path d="M950 685 L1200 685"/>
+<path d="M950 1260 L1200 1220"/>
+<path d="M1200 0 L1200 240"/>
+<path d="M1200 240 L1200 685"/>
+<path d="M1200 685 L1200 1040"/>
+<path d="M1200 1040 L1200 1220"/>
+<path d="M1200 1220 L1200 1600"/>
+</g>
+<g fill="none" stroke="#08745C" stroke-width="6" stroke-linejoin="round">
+<path d="M0 0 L0 370"/>
+<path d="M0 0 L520 0"/>
+<path d="M0 370 L0 490"/>
+<path d="M0 370 L330 320"/>
+<path d="M0 490 L0 900"/>
+<path d="M0 490 L180 490"/>
+<path d="M0 900 L0 1100"/>
+<path d="M0 900 L310 850"/>
+<path d="M0 1100 L0 1460"/>
+<path d="M0 1100 L430 1090"/>
+<path d="M0 1460 L0 1600"/>
+<path d="M0 1460 L400 1430"/>
+<path d="M0 1600 L1200 1600"/>
+<path d="M180 490 L190 590"/>
+<path d="M190 590 L245 590"/>
+<path d="M190 590 L335 590"/>
+<path d="M245 590 L260 680"/>
+<path d="M245 590 L335 590"/>
+<path d="M260 680 L300 730"/>
+<path d="M300 730 L310 850"/>
+<path d="M300 730 L540 730"/>
+<path d="M330 245 L330 320"/>
+<path d="M330 245 L460 245"/>
+<path d="M335 590 L340 515"/>
+<path d="M340 515 L540 490"/>
+<path d="M400 1430 L560 1360"/>
+<path d="M430 1090 L700 1100"/>
+<path d="M460 245 L520 220"/>
+<path d="M520 0 L520 220"/>
+<path d="M520 0 L1200 0"/>
+<path d="M520 220 L600 250"/>
+<path d="M540 490 L540 730"/>
+<path d="M540 490 L580 380"/>
+<path d="M540 730 L850 730"/>
+<path d="M560 1360 L750 1300"/>
+<path d="M580 380 L620 370"/>
+<path d="M600 250 L620 370"/>
+<path d="M620 370 L820 400"/>
+<path d="M700 1100 L820 1040"/>
+<path d="M750 1300 L950 1260"/>
+<path d="M810 960 L820 1040"/>
+<path d="M810 960 L850 730"/>
+<path d="M820 400 L870 500"/>
+<path d="M820 400 L900 270"/>
+<path d="M820 1040 L1200 1040"/>
+<path d="M850 730 L875 650"/>
+<path d="M870 500 L875 650"/>
+<path d="M875 650 L950 685"/>
+<path d="M900 270 L1200 240"/>
+<path d="M950 685 L1200 685"/>
+<path d="M950 1260 L1200 1220"/>
+<path d="M1200 0 L1200 240"/>
+<path d="M1200 240 L1200 685"/>
+<path d="M1200 685 L1200 1040"/>
+<path d="M1200 1040 L1200 1220"/>
+<path d="M1200 1220 L1200 1600"/>
+</g>
+</svg>
